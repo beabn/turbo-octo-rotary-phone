@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Currículo Beatriz </title>
+    </head>
+    <body bgcolor="#d1c0ea">
+        <h1> Beatriz Benini </h1>
+        <h2> Rio de Janeiro, RJ</h2>
+        <hr>
+        Brasileiro (a), solteiro (a), 22 anos <br>
+        Rua xxx - xxx - Bloco x - Apto xxx - Jacarepaguá <br>
+        Telefone: (21) xxxxx-xxxx <br>
+        E-mail: beatrizbenini01@gmail.com
+
+        <h2> Objetivo: </h2>
+        
+        Estágio em design gráfico <br>
+        Estágio em ilustração
+        
+        <h2>Formação Acadêmica:</h2>
+        
+        Design Gráfico - Universidade Veiga de Almeida <br>
+        Término previsto: Junho de 2020
+        
+        <h2>Idiomas:</h2>
+        
+        <ul>
+                 <li><b>Inglês</b> - Avançado</li>
+                 <li><b>Espanhol</b> - Intermediário</li>
+             </ul>
+        <h2>Áreas de conhecimento:</h2>
+        <ul>
+            
+                   <li>Pacote Office</li>
+                   <li>Ilustrator</li>
+                <li> Photoshop</li>
+            </ul>
+        <h2>Projetos:</h2>
+        
+        <ul>
+            
+                <li> <a href="https://www.behance.net/gallery/70413545/Capa-album-Rapteys-single-Fala-Mais">Capa álbum Rapteys</a></li>
+            <li> <a href="https://www.behance.net/gallery/70413385/Logo-banda-Rapteys">Logo banda Rapteys</a></li>
+         
+                <li> <a href="https://www.behance.net/gallery/70413075/Snoopy-estepe">Snoopy estepe</a></li>
+        </ul>
+       
+</body>        
+</html>
